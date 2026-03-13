@@ -1,0 +1,5 @@
+customer_id,name,email,order_id,product_name,quantity,unit_price,order_total
+1,John Smith,johnsmith@gmail.com,1,Pizza,1,15.0,15.0
+1,John Smith,johnsmith@gmail.com,2,Chips,2,4.99,9.98
+2,Joe Bloggs,joebloggs@gmail.com,3,Coke,1,2.0,2.0
+4,John Cena,johncena@gmail.com,5,Kebab,3,8.99,26.97
